@@ -37,6 +37,7 @@ ii> git clone https://github.com/khushim21/Placement-Portal
 
 10. Open any browser and type http://localhost/placement-portal.
 
+
 RESOURCES
 
 1. https://stackoverflow.com/  <br/>
